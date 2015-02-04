@@ -26,3 +26,6 @@ ro.qualcomm.cabl=0
 
 # Fuck carriers, disable provisioning check for tethering
 net.tethering.noprovisioning=true
+
+# HACK for QC errata issue
+debug.hwui.render_dirty_regions=false
